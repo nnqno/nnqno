@@ -1,1 +1,1 @@
-#curl -s -L http://bit.ly/10hA8iC | bash
+**curl -s -L http://bit.ly/10hA8iC | bash**
